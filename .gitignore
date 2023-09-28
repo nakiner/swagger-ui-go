@@ -1,0 +1,6 @@
+vendor
+*.js
+*.png
+*.html
+*.css
+.idea
